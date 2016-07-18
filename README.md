@@ -1,7 +1,7 @@
 # HowDoUdo
 1st tutorial
 Waiting Period
-it's water against fire
+just messing around
 ...
-no one wins
+if no one against else
 no one loses
